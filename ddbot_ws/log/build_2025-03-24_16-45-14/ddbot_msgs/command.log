@@ -1,0 +1,6 @@
+Invoking command in '/home/rosuser/ddbot_ws/build/ddbot_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rosuser/ddbot_ws/src/ddbot_msgs -DCMAKE_INSTALL_PREFIX=/home/rosuser/ddbot_ws/install/ddbot_msgs
+Invoked command in '/home/rosuser/ddbot_ws/build/ddbot_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rosuser/ddbot_ws/src/ddbot_msgs -DCMAKE_INSTALL_PREFIX=/home/rosuser/ddbot_ws/install/ddbot_msgs
+Invoking command in '/home/rosuser/ddbot_ws/build/ddbot_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ddbot_ws/build/ddbot_msgs -- -j8 -l8
+Invoked command in '/home/rosuser/ddbot_ws/build/ddbot_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ddbot_ws/build/ddbot_msgs -- -j8 -l8
+Invoking command in '/home/rosuser/ddbot_ws/build/ddbot_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ddbot_ws/build/ddbot_msgs
+Invoked command in '/home/rosuser/ddbot_ws/build/ddbot_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ddbot_ws/build/ddbot_msgs

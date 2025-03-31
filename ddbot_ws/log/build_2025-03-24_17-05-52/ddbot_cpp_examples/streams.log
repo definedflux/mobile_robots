@@ -1,0 +1,2 @@
+[0.027s] Invoking command in '/home/rosuser/ddbot_ws/build/ddbot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ddbot_ws/install/ddbot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ddbot_ws/build/ddbot_cpp_examples -- -j8 -l8
+[0.300s] Invoked command in '/home/rosuser/ddbot_ws/build/ddbot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ddbot_ws/install/ddbot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ddbot_ws/build/ddbot_cpp_examples -- -j8 -l8

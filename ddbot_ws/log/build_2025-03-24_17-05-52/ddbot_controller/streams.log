@@ -1,0 +1,9 @@
+[0.029s] Invoking command in '/home/rosuser/ddbot_ws/build/ddbot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ddbot_ws/install/ddbot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ddbot_ws/build/ddbot_controller -- -j8 -l8
+[0.080s] Built target ament_cmake_python_copy_ddbot_controller
+[0.307s] running egg_info
+[0.307s] writing ddbot_controller.egg-info/PKG-INFO
+[0.308s] writing dependency_links to ddbot_controller.egg-info/dependency_links.txt
+[0.309s] writing top-level names to ddbot_controller.egg-info/top_level.txt
+[0.311s] reading manifest file 'ddbot_controller.egg-info/SOURCES.txt'
+[0.312s] writing manifest file 'ddbot_controller.egg-info/SOURCES.txt'
+[0.344s] Built target ament_cmake_python_build_ddbot_controller_egg

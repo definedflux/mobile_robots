@@ -1,0 +1,6 @@
+[31mCMake Error at cmake_install.cmake:46 (file):
+  file INSTALL cannot find
+  "/home/rosuser/ddbot_ws/src/ddbot_description/rviz": No such file or
+  directory.
+
+[0m

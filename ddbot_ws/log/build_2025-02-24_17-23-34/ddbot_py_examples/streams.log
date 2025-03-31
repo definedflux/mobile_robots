@@ -1,0 +1,23 @@
+[0.588s] Invoking command in '/home/rosuser/ddbot_ws/src/ddbot_py_examples': PYTHONPATH=/home/rosuser/ddbot_ws/build/ddbot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ddbot_ws/install/ddbot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ddbot_py_examples build --build-base /home/rosuser/ddbot_ws/build/ddbot_py_examples/build install --record /home/rosuser/ddbot_ws/build/ddbot_py_examples/install.log --single-version-externally-managed install_data
+[0.788s] running egg_info
+[0.788s] writing ../../build/ddbot_py_examples/ddbot_py_examples.egg-info/PKG-INFO
+[0.789s] writing dependency_links to ../../build/ddbot_py_examples/ddbot_py_examples.egg-info/dependency_links.txt
+[0.789s] writing entry points to ../../build/ddbot_py_examples/ddbot_py_examples.egg-info/entry_points.txt
+[0.789s] writing requirements to ../../build/ddbot_py_examples/ddbot_py_examples.egg-info/requires.txt
+[0.789s] writing top-level names to ../../build/ddbot_py_examples/ddbot_py_examples.egg-info/top_level.txt
+[0.790s] reading manifest file '../../build/ddbot_py_examples/ddbot_py_examples.egg-info/SOURCES.txt'
+[0.791s] writing manifest file '../../build/ddbot_py_examples/ddbot_py_examples.egg-info/SOURCES.txt'
+[0.791s] running build
+[0.791s] running build_py
+[0.791s] running install
+[0.792s] running install_lib
+[0.792s] running install_data
+[0.793s] running install_egg_info
+[0.794s] removing '/home/rosuser/ddbot_ws/install/ddbot_py_examples/lib/python3.10/site-packages/ddbot_py_examples-0.0.0-py3.10.egg-info' (and everything under it)
+[0.794s] Copying ../../build/ddbot_py_examples/ddbot_py_examples.egg-info to /home/rosuser/ddbot_ws/install/ddbot_py_examples/lib/python3.10/site-packages/ddbot_py_examples-0.0.0-py3.10.egg-info
+[0.795s] running install_scripts
+[0.810s] Installing simple_parameter script to /home/rosuser/ddbot_ws/install/ddbot_py_examples/lib/ddbot_py_examples
+[0.810s] Installing simple_publisher script to /home/rosuser/ddbot_ws/install/ddbot_py_examples/lib/ddbot_py_examples
+[0.811s] Installing simple_subscriber script to /home/rosuser/ddbot_ws/install/ddbot_py_examples/lib/ddbot_py_examples
+[0.811s] writing list of installed files to '/home/rosuser/ddbot_ws/build/ddbot_py_examples/install.log'
+[0.831s] Invoked command in '/home/rosuser/ddbot_ws/src/ddbot_py_examples' returned '0': PYTHONPATH=/home/rosuser/ddbot_ws/build/ddbot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rosuser/ddbot_ws/install/ddbot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ddbot_py_examples build --build-base /home/rosuser/ddbot_ws/build/ddbot_py_examples/build install --record /home/rosuser/ddbot_ws/build/ddbot_py_examples/install.log --single-version-externally-managed install_data

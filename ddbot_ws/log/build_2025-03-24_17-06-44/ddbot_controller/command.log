@@ -1,0 +1,1 @@
+Invoking command in '/home/rosuser/ddbot_ws/build/ddbot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ddbot_ws/install/ddbot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ddbot_ws/build/ddbot_controller -- -j8 -l8

@@ -1,0 +1,20 @@
+[0.024s] Invoking command in '/home/rosuser/ddbot_ws/build/ddbot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ddbot_ws/install/ddbot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ddbot_ws/build/ddbot_cpp_examples -- -j8 -l8
+[0.280s] Invoked command in '/home/rosuser/ddbot_ws/build/ddbot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ddbot_ws/install/ddbot_py_examples:/opt/ros/humble /usr/bin/cmake --build /home/rosuser/ddbot_ws/build/ddbot_cpp_examples -- -j8 -l8
+[0.311s] Invoking command in '/home/rosuser/ddbot_ws/build/ddbot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ddbot_ws/install/ddbot_py_examples:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ddbot_ws/build/ddbot_cpp_examples
+[0.321s] -- Install configuration: ""
+[0.321s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ament_index/resource_index/package_run_dependencies/ddbot_cpp_examples
+[0.321s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ament_index/resource_index/parent_prefix_path/ddbot_cpp_examples
+[0.321s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ddbot_cpp_examples/environment/ament_prefix_path.sh
+[0.322s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ddbot_cpp_examples/environment/ament_prefix_path.dsv
+[0.322s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ddbot_cpp_examples/environment/path.sh
+[0.324s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ddbot_cpp_examples/environment/path.dsv
+[0.324s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ddbot_cpp_examples/local_setup.bash
+[0.324s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ddbot_cpp_examples/local_setup.sh
+[0.324s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ddbot_cpp_examples/local_setup.zsh
+[0.325s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ddbot_cpp_examples/local_setup.dsv
+[0.325s] -- Installing: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ddbot_cpp_examples/package.dsv
+[0.325s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ament_index/resource_index/packages/ddbot_cpp_examples
+[0.326s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ddbot_cpp_examples/cmake/ddbot_cpp_examplesConfig.cmake
+[0.327s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ddbot_cpp_examples/cmake/ddbot_cpp_examplesConfig-version.cmake
+[0.327s] -- Up-to-date: /home/rosuser/ddbot_ws/install/ddbot_cpp_examples/share/ddbot_cpp_examples/package.xml
+[0.343s] Invoked command in '/home/rosuser/ddbot_ws/build/ddbot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rosuser/ddbot_ws/install/ddbot_py_examples:/opt/ros/humble /usr/bin/cmake --install /home/rosuser/ddbot_ws/build/ddbot_cpp_examples
